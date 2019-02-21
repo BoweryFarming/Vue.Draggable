@@ -23,7 +23,7 @@
     "component"
   ],
   "dependencies": {
-    "sortablejs": "^1.8.3",
+    "sortablejs": "git://github.com/SortableJS/Sortable.git#next-version",
     "vue": "^2.5.22"
   },
   "devDependencies": {
